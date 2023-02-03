@@ -55,8 +55,9 @@ a {
 
 .box-content {
   display: inline-block;
+  float: left;
 }
 
-.male-1 {
-  object-fit: cover;
+.box img {
+  float: left;
 }
